@@ -72,6 +72,7 @@ query TeacherRatingsPageQuery(
       id
       firstName
       lastName
+      legacyId
       school {
         name
         id
